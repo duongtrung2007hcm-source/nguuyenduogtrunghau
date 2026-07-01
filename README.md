@@ -1,7 +1,7 @@
 lý do chọn dự án:
-1. Tính ứng dụng thực tế cao (Real-world Problem)
-2. Sự đa dạng của các cấu trúc dữ liệu (DSA Diversity)
-3. Thách thức về quản lý bộ nhớ và tối ưu hóa (Technical Complexity)
+1. Tính ứng dụng thực tế cao 
+2. Sự đa dạng của các cấu trúc dữ liệu 
+3. Thách thức về quản lý bộ nhớ và tối ưu hóa 
 
 1.Library Management System (Hệ thống Quản lý Thư viện)
 
